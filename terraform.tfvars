@@ -1,2 +1,2 @@
-resource_group_name = "dev-environment-rg"
-location = "southcentralus"
+# resource_group_name = "dev-environment-rg"
+# location = "southcentralus"
